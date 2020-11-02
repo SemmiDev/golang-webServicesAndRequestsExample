@@ -1,0 +1,5 @@
+### GET ALL STUDENTS
+GET http://localhost:8000/students
+
+### GET STUDENT BY ID
+POST http://localhost:8000/student?id=1
